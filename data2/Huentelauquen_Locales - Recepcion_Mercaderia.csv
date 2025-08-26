@@ -1,0 +1,56 @@
+Fecha,Sucursal,Producto,Cantidad,Lote,Elaboracion,Vencimiento,Temperatura,Respaldo,Daño Envase,Limpio,Recepcion,Responsable,email
+08/08/2025 12:11:39,MUT,Quesos,2,1,04/08/2025,01/01/2026,7,Recepcion_Mercaderia_Images/08-08-2025 12-11-39.Respaldo.161403.jpg,No,Si,Aceptado,Matia Bello,huente.mut@gmail.com
+08/08/2025 12:14:22,MUT,Empanadas,12,1,04/08/2025,09/08/2025,5.6,Recepcion_Mercaderia_Images/08-08-2025 12-14-22.Respaldo.161611.jpg,No,Si,Aceptado,Matia Bello,huente.mut@gmail.com
+09/08/2025 12:12:12,Esc. Militar,Empanadas,312,1,05/08/2025,09/08/2025,5.8,Recepcion_Mercaderia_Images/08-09-2025 12-12-12.Respaldo.161512.jpg,No,Si,Aceptado,Almendra,huente.escuelamilitar@gmail.com
+09/08/2025 12:15:49,Esc. Militar,Quesos,32,1,28/07/2025,25/12/2025,7.7,Recepcion_Mercaderia_Images/08-09-2025 12-15-49.Respaldo.163751.jpg,No,Si,Aceptado,Almendra,huente.escuelamilitar@gmail.com
+11/08/2025 11:44:51,MUT,Empanadas,8,1,05/08/2025,09/08/2025,5.3,Recepcion_Mercaderia_Images/08-11-2025 11-44-51.Respaldo.154921.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+11/08/2025 11:56:45,MUT,Quesos,4,1,28/07/2025,25/12/2025,6.3,Recepcion_Mercaderia_Images/08-11-2025 11-56-45.Respaldo.155855.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+11/08/2025 12:22:24,Esc. Militar,Empanadas,1,1,05/08/2025,09/08/2025,7.2,Recepcion_Mercaderia_Images/08-11-2025 12-22-24.Respaldo.162425.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+11/08/2025 14:28:24,MUT,Empanadas,1,1,05/08/2025,09/08/2025,5.6,Recepcion_Mercaderia_Images/08-11-2025 14-28-24.Respaldo.182907.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+13/08/2025 12:02:53,MUT,Quesos,6,1,11/08/2025,08/01/2026,7.4,Recepcion_Mercaderia_Images/08-13-2025 12-02-53.Respaldo.160415.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+13/08/2025 12:17:05,MUT,Empanadas,12,1,12/08/2025,21/08/2025,10.1,Recepcion_Mercaderia_Images/08-13-2025 12-17-05.Respaldo.161850.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+13/08/2025 13:47:31,Esc. Militar,Empanadas,5,1,12/08/2025,16/08/2025,11.8,Recepcion_Mercaderia_Images/08-13-2025 13-47-31.Respaldo.174906.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+13/08/2025 17:06:54,Esc. Militar,Quesos,1,1,28/07/2025,25/12/2025,6.9,Recepcion_Mercaderia_Images/08-13-2025 17-06-54.Respaldo.210856.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+15/08/2025 11:31:07,Esc. Militar,Quesos,1,1,28/07/2025,25/12/2025,8.8,Recepcion_Mercaderia_Images/08-15-2025 11-31-07.Respaldo.153245.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+15/08/2025 11:34:42,Esc. Militar,Empanadas,3,1,12/08/2025,16/08/2025,8.7,Recepcion_Mercaderia_Images/08-15-2025 11-34-42.Respaldo.153956.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+15/08/2025 12:12:41,MUT,Empanadas,9,1,12/08/2025,16/08/2025,6.8,Recepcion_Mercaderia_Images/08-15-2025 12-12-41.Respaldo.161428.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+15/08/2025 12:16:47,MUT,Quesos,6,1,28/07/2025,25/12/2025,6.1,Recepcion_Mercaderia_Images/08-15-2025 12-16-47.Respaldo.161928.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+15/08/2025 14:38:43,Plaza Egaña,Empanadas,72,1,12/08/2025,21/08/2025,8.3,Recepcion_Mercaderia_Images/08-15-2025 14-38-43.Respaldo.184751.jpg,No,Si,Aceptado,David,huente.plazaegana@gmail.com
+15/08/2025 14:47:53,Plaza Egaña,Empanadas,180,1,14/08/2025,18/08/2025,1.4,Recepcion_Mercaderia_Images/08-15-2025 14-47-53.Respaldo.185224.jpg,No,Si,Aceptado,David,huente.plazaegana@gmail.com
+16/08/2025 11:13:43,MUT,Empanadas,17,1,14/08/2025,18/08/2025,5.7,Recepcion_Mercaderia_Images/08-16-2025 11-13-43.Respaldo.152704.jpg,No,Si,Aceptado,Nicole,huente.mut@gmail.com
+16/08/2025 11:56:27,Esc. Militar,Empanadas,180,1,14/08/2025,18/08/2025,4.2,Recepcion_Mercaderia_Images/08-16-2025 11-56-27.Respaldo.155720.jpg,No,Si,Aceptado,Almendra,huente.escuelamilitar@gmail.com
+16/08/2025 11:57:21,Esc. Militar,Quesos,20,1,28/07/2025,25/12/2025,7.8,Recepcion_Mercaderia_Images/08-16-2025 11-57-21.Respaldo.155812.jpg,No,Si,Aceptado,Almendra,huente.escuelamilitar@gmail.com
+18/08/2025 11:59:32,MUT,Empanadas,6,1,14/08/2025,18/08/2025,5.8,Recepcion_Mercaderia_Images/08-18-2025 11-59-32.Respaldo.160205.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+18/08/2025 12:02:03,MUT,Quesos,2,1,11/08/2025,08/01/2026,7.9,Recepcion_Mercaderia_Images/08-18-2025 12-02-03.Respaldo.160547.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+18/08/2025 12:05:45,MUT,Empanadas,6,1,14/08/2025,23/08/2025,3.7,Recepcion_Mercaderia_Images/08-18-2025 12-05-45.Respaldo.160659.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+18/08/2025 12:08:58,MUT,Quesos,3,1,28/07/2025,25/12/2025,5.2,Recepcion_Mercaderia_Images/08-18-2025 12-08-58.Respaldo.161051.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+18/08/2025 15:03:32,Plaza Egaña,Empanadas,156,1,12/08/2025,21/08/2025,2.5,Recepcion_Mercaderia_Images/08-18-2025 15-03-32.Respaldo.210253.jpg,No,Si,Aceptado,David,huente.plazaegana@gmail.com
+18/08/2025 17:02:53,Plaza Egaña,Quesos,40,1,21/07/2025,18/12/2025,4.3,Recepcion_Mercaderia_Images/08-18-2025 17-02-53.Respaldo.210426.jpg,No,Si,Aceptado,David,huente.plazaegana@gmail.com
+20/08/2025 12:22:20,MUT,Empanadas,10,1,19/08/2025,28/08/2025,8.7,Recepcion_Mercaderia_Images/08-20-2025 12-22-20.Respaldo.162400.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+20/08/2025 12:24:41,MUT,Quesos,3,1,11/08/2025,08/01/2026,7.1,Recepcion_Mercaderia_Images/08-20-2025 12-24-41.Respaldo.162534.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+20/08/2025 12:26:17,MUT,Empanadas,12,1,19/08/2025,23/08/2025,6.6,Recepcion_Mercaderia_Images/08-20-2025 12-26-17.Respaldo.162659.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+20/08/2025 12:36:00,MUT,Quesos,3,1,11/08/2025,08/01/2026,4.7,Recepcion_Mercaderia_Images/08-20-2025 12-36-00.Respaldo.163648.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+20/08/2025 17:26:26,Esc. Militar,Empanadas,6,1,19/08/2025,23/08/2025,10.2,Recepcion_Mercaderia_Images/08-20-2025 17-26-26.Respaldo.213028.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+20/08/2025 17:34:36,Esc. Militar,Empanadas,5,1,19/08/2025,28/08/2025,10.6,Recepcion_Mercaderia_Images/08-20-2025 17-34-36.Respaldo.213532.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+21/08/2025 19:10:09,Plaza Egaña,Empanadas,420,1,19/08/2025,23/08/2025,7.1,Recepcion_Mercaderia_Images/08-21-2025 19-10-09.Respaldo.011704.jpg,No,Si,Aceptado,David,huente.plazaegana@gmail.com
+22/08/2025 12:32:06,MUT,Empanadas,7,1,19/08/2025,28/08/2025,9.3,Recepcion_Mercaderia_Images/08-22-2025 12-32-06.Respaldo.163428.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+22/08/2025 12:35:13,MUT,Quesos,2,1,18/08/2025,15/01/2026,7.2,Recepcion_Mercaderia_Images/08-22-2025 12-35-13.Respaldo.163705.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+22/08/2025 12:37:13,MUT,Empanadas,1,1,19/08/2025,23/08/2025,6.3,Recepcion_Mercaderia_Images/08-22-2025 12-37-13.Respaldo.163839.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+22/08/2025 14:05:19,Esc. Militar,Quesos,1,1,18/08/2025,15/01/2026,9.8,Recepcion_Mercaderia_Images/08-22-2025 14-05-19.Respaldo.180619.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+22/08/2025 14:06:32,Esc. Militar,Empanadas,3,1,19/08/2025,28/08/2025,12.2,Recepcion_Mercaderia_Images/08-22-2025 14-06-32.Respaldo.180727.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+22/08/2025 14:07:42,Esc. Militar,Empanadas,8,1,19/08/2025,23/08/2025,7.5,Recepcion_Mercaderia_Images/08-22-2025 14-07-42.Respaldo.180917.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+22/08/2025 14:09:24,Esc. Militar,Quesos,1,1,11/08/2025,08/01/2026,7.1,Recepcion_Mercaderia_Images/08-22-2025 14-09-24.Respaldo.181017.jpg,No,Si,Aceptado,Alejandra,huente.escuelamilitar@gmail.com
+22/08/2025 14:42:25,Plaza Egaña,Empanadas,96,1,21/08/2025,30/08/2025,1.9,Recepcion_Mercaderia_Images/08-22-2025 14-42-25.Respaldo.184425.jpg,No,Si,Aceptado,David,huente.plazaegana@gmail.com
+22/08/2025 14:44:22,Plaza Egaña,Empanadas,180,1,21/08/2025,25/08/2025,1.3,Recepcion_Mercaderia_Images/08-22-2025 14-44-22.Respaldo.184522.jpg,No,Si,Aceptado,David,huente.plazaegana@gmail.com
+23/08/2025 10:32:09,MUT,Quesos,2,1,11/08/2025,08/01/2026,7.08,Recepcion_Mercaderia_Images/08-23-2025 10-32-09.Respaldo.143310.jpg,No,Si,Aceptado,Nicole,huente.mut@gmail.com
+23/08/2025 10:33:11,MUT,Quesos,2,1,18/08/2025,15/01/2026,8,Recepcion_Mercaderia_Images/08-23-2025 10-33-11.Respaldo.143431.jpg,No,Si,Aceptado,Nicole,huente.mut@gmail.com
+23/08/2025 10:34:35,MUT,Empanadas,4,1,19/08/2025,28/08/2025,7.6,Recepcion_Mercaderia_Images/08-23-2025 10-34-35.Respaldo.143534.jpg,No,Si,Aceptado,Nicole,huente.mut@gmail.com
+23/08/2025 10:35:59,MUT,Empanadas,17,1,21/08/2025,25/08/2025,4.9,Recepcion_Mercaderia_Images/08-23-2025 10-35-59.Respaldo.143703.jpg,No,Si,Aceptado,Nicole,huente.mut@gmail.com
+25/08/2025 11:50:39,MUT,Empanadas,10,1,19/08/2025,28/08/2025,6.6,Recepcion_Mercaderia_Images/08-25-2025 11-50-39.Respaldo.155117.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+25/08/2025 11:52:12,MUT,Empanadas,12,1,21/08/2025,25/08/2025,4.9,Recepcion_Mercaderia_Images/08-25-2025 11-52-12.Respaldo.155308.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+25/08/2025 11:53:09,MUT,Quesos,3,1,11/08/2025,08/01/2026,6.1,Recepcion_Mercaderia_Images/08-25-2025 11-53-09.Respaldo.155701.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+25/08/2025 11:56:59,MUT,Quesos,3,1,18/08/2025,15/01/2026,6.8,Recepcion_Mercaderia_Images/08-25-2025 11-56-59.Respaldo.155754.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+25/08/2025 14:23:14,MUT,Empanadas,3,1,19/08/2025,23/08/2025,3.6,Recepcion_Mercaderia_Images/08-25-2025 14-23-14.Respaldo.182424.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+25/08/2025 14:24:23,MUT,Quesos,1,1,18/08/2025,15/01/2026,4.9,Recepcion_Mercaderia_Images/08-25-2025 14-24-23.Respaldo.182501.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+25/08/2025 14:25:02,MUT,Quesos,1,1,11/08/2025,08/01/2026,3.4,Recepcion_Mercaderia_Images/08-25-2025 14-25-02.Respaldo.182546.jpg,No,Si,Aceptado,Paula,huente.mut@gmail.com
+25/08/2025 14:52:56,Plaza Egaña,Empanadas,96,1,21/08/2025,30/08/2025,4.9,Recepcion_Mercaderia_Images/08-25-2025 14-52-56.Respaldo.185355.jpg,No,Si,Aceptado,David,huente.plazaegana@gmail.com

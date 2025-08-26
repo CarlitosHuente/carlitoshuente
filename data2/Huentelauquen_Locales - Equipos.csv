@@ -1,0 +1,18 @@
+ID_Equipo,Nombre_Equipo,Tipo,Sucursal,Rango_Min,Rango_Max,Activo
+MUT001,Vitrina Delantera,Vitrina,MUT,-4,16,TRUE
+MUT002,Cooler Empanadas,Vitrina,MUT,-4,16,TRUE
+EM001,Vitrina 1,Vitrina,Esc. Militar,-4,16,TRUE
+COS001,Vitrina Delantera,Vitrina,Costanera,-4,16,TRUE
+COS002,Cooler Cocina,Vitrina,Costanera,-4,16,TRUE
+COS003,Cooler Fabrica,Vitrina,Costanera,-4,16,TRUE
+COS004,Camara Empanadas ,Vitrina,Costanera,-4,16,TRUE
+EGA001,Cooler Empanadas,Cooler,Plaza Egaña,-4,16,TRUE
+EGA002,Vitrina Delantera,Vitrina,Plaza Egaña,-4,16,TRUE
+EGA003,Cooler Bebidas,Cooler,Plaza Egaña,-4,16,TRUE
+EGA004,Cooler Bodega,Cooler,Plaza Egaña,-4,16,TRUE
+EM002,Visicooler 1,Visicooler,Esc. Militar,-4,16,TRUE
+EM003,Vicicooler2,Vitrina,Esc. Militar,-4,16,TRUE
+EM004,Visicooler 2,Visicooler ,Esc. Militar,-4,16,TRUE
+EM005,Cooler Empanadas,Cooler,Esc. Militar,-4,16,TRUE
+MUT003,Visicooler Bebidas,Visicooler,MUT,-4,16,TRUE 
+MUT004,Cooler Vertical ,Cooler,MUT,-4,16,TRUE 
